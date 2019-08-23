@@ -1,0 +1,15 @@
+{
+  "name": "demo-plugin",
+  "version": "1.0.0",
+  "description": "Just a demo plugin",
+  "author": "William Earnhardt",
+  "license": "GPL-3.0-or-later",
+  "main": "src/index.js",
+  "devDependencies": {
+    "@wordpress/scripts": "^3.2.1"
+  },
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  }
+}

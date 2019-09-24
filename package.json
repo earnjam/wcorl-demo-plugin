@@ -6,7 +6,7 @@
   "license": "GPL-3.0-or-later",
   "main": "src/index.js",
   "devDependencies": {
-    "@wordpress/scripts": "^3.2.1"
+    "@wordpress/scripts": "^5.0.0"
   },
   "scripts": {
     "build": "wp-scripts build",
